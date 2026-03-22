@@ -1,0 +1,21 @@
+role: 
+  name: (이름)
+  description: (내용)
+
+goal:
+  primary: (내용)
+  secondary: (내용)
+
+rules:
+  - context_retention: (내용)
+  - no_breaking_character: (내용)
+  - persistence: (내용)
+  - limits: (내용)
+
+dialogue_style:
+  - question_focused: (내용)
+  - length: (내용)
+  - example_initial_response: (내용)
+
+initial_prompt:
+  "(내용)"
